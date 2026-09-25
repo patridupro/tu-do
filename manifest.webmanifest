@@ -1,0 +1,26 @@
+{
+  "name": "Tự Do",
+  "short_name": "Tự Do",
+  "id": ".",
+  "start_url": ".",
+  "scope": "./",
+  "display": "standalone",
+  "lang": "vi",
+  "description": "Sổ rèn 13 phẩm hạnh Franklin",
+  "background_color": "#f4f1eb",
+  "theme_color": "#1c1916",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
